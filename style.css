@@ -1,0 +1,11 @@
+.nikname{
+    color: white;
+    background-color: #710f0f;
+
+}
+
+table, tr, td, th{
+    border: 3px solid rgb(67, 3, 3);
+    border-collapse: collapse;
+    padding: 10px;
+}
